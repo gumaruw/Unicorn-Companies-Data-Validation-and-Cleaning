@@ -1,4 +1,4 @@
-# 🦄 Unicorn Companies Missing Data Handling
+# 🦄 Unicorn Companies Data Validation and Cleaning
 
 > This project was completed as part of my scholarship in the Data Science program at the Artificial Intelligence and Technology Academy. It was undertaken within the scope of the "Go Beyond the Numbers: Translate Data into Insights" chapter of the Google Advanced Data Analytics course.
 
