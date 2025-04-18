@@ -64,8 +64,8 @@ By the end of this project, we were able to:
 4. Run the notebook step-by-step
 
 ```bash
-git clone https://github.com/gumaruw/unicorn-companies-analysis.git
-cd unicorn-companies-analysis
+git clone https://github.com/gumaruw/Unicorn-Companies-Data-Validation-and-Cleaning.git
+cd Unicorn-Companies-Data-Validation-and-Cleaning
 jupyter notebook
 ```
 
